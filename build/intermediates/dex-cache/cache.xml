@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c125af0015c46674742e14bab414d593d8cf92ea">
+        <dex dex="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a005d8e2d7a1861305df7bbce478b29c7fb63a91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8542c65b9aeacd6367928dc1e4c66caa9e3ccabf">
+        <dex dex="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a2056ca0d082220255187612d679f6acce8acded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f3ed4fc5f5452c221e01829cccc388ed0563279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/leomorales/LeoMorales/programacion/escuelasdeinformatica/tests/FirstMessageToWearService/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_55bd5a45b11add1cda7832697a6d03f654eddaf3/classes.dex" />
+    </item>
+
+</items>
